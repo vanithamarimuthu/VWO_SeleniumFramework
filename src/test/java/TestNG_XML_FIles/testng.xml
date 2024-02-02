@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/AKKASH/IdeaProjects/VWO_SeleniumFRamework/src/test/java/VWO/Login_Test.java">
+    <classes>
+        <class name="VWO.Login_Test">
+        <methods>
+            <include name="LoginTest_positive"/>
+            <include name="LoginTest_negative"/>
+        </methods>
+        </class>
+    </classes>
+    </test>
+</suite>
